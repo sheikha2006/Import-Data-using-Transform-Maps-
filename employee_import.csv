@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,email,department,active
+EMP001,Arun,Kumar,arun.kumar@example.com,IT,true
+EMP002,Divya,Raj,divya.raj@example.com,HR,true
+EMP003,Karthik,Mani,karthik.mani@example.com,Finance,true
+EMP004,Priya,S,priya.s@example.com,IT,true
+EMP005,Rahul,Das,rahul.das@example.com,Operations,false
